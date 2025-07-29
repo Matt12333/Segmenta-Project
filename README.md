@@ -16,4 +16,4 @@ Segmanta is a data analytics project focused on customer segmentation. This proj
 [Presentation Script Link](https://docs.google.com/document/d/1oF72D7Chgskz1wGMyNiAwo96uSG20Jo8ugBvOi5-egM/edit?usp=sharing) - *If you would like the narration of the presentation, it is a raw script and the presentation was delivered without reading off the script*
 
 <h3>Data Sources</h3>
-There was a single data source that has been attached to this repository to view
+There was a single data source that has been attached to this repository. It is too large to view so a smaller sample has been added to view
